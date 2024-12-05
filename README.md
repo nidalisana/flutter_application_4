@@ -1,5 +1,6 @@
-# flutter_application_4
-
+# Latihan_Responsi
+Nama : Nida Lisana Sidqi
+NIM  : 124220098
 A new Flutter project.
 
 ## Getting Started
